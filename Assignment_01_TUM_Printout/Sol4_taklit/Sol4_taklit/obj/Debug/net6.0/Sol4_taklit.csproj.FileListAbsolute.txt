@@ -1,0 +1,5 @@
+C:\Users\ataca\OneDrive\Masaüstü\Assignment_TUM_\Sol4_taklit\Sol4_taklit\obj\Debug\net6.0\Sol4_taklit.csproj.AssemblyReference.cache
+C:\Users\ataca\OneDrive\Masaüstü\Assignment_TUM_\Sol4_taklit\Sol4_taklit\obj\Debug\net6.0\Sol4_taklit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\OneDrive\Masaüstü\Assignment_TUM_\Sol4_taklit\Sol4_taklit\obj\Debug\net6.0\Sol4_taklit.AssemblyInfoInputs.cache
+C:\Users\ataca\OneDrive\Masaüstü\Assignment_TUM_\Sol4_taklit\Sol4_taklit\obj\Debug\net6.0\Sol4_taklit.AssemblyInfo.cs
+C:\Users\ataca\OneDrive\Masaüstü\Assignment_TUM_\Sol4_taklit\Sol4_taklit\obj\Debug\net6.0\Sol4_taklit.csproj.CoreCompileInputs.cache
